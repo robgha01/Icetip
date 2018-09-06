@@ -1,0 +1,12 @@
+tag v2.0.11
+0b12c2af0805d02f215a237c943cc78cdfe8ff92
+wolftankk <wolftankk@gmail.com>
+2016-07-24 12:15:24 +0800
+
+Tag as v2.0.11
+
+
+--------------------
+
+wolftankk:
+	- call module's method by module's order
